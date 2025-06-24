@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 , p {
+    text-align: center;
+    margin-top: 18rem;
+    padding: auto;
+    justify-content: center;
+    font-family: "Inconsolata";
+}
+
+p {
+    margin-top: 1rem;
+}
